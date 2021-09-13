@@ -1,6 +1,6 @@
 # Student performance sorter
 
-API that takes list of students with their grades and sorts them using sorting algorith, of your choice.
+API that takes list of students with their grades and sorts them using sorting algorithm of your choice.
 
 ## How to run:
 
